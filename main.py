@@ -4,11 +4,13 @@ Bill Quain 2025
 """
 
 import streamlit as st
+import os
 
 st.title("William Quain")
 st.header("Who am I?")
 st.write("""I am a Computer Scientist who graduated with a bachelors degree in computer science with a minor
             in cyber security from Western Illinois University. """)
+st.image(os.path.join(os.getcwd(), "static", "BillWesternGrad.jpg"))
 st.divider()
 st.header("Skills")
 st.write("""I know how to program in:""")
@@ -58,3 +60,6 @@ st.write("""After college I decided to take a gap year to study other areas of c
             like C and C++, computer organization and architecture, Python development, and many other skills that I wanted to have.""")
 
 st.divider()
+st.header("Screenshots of Tactical Chicken")
+st.image(os.path.join(os.getcwd(), "static", "menu.png"))
+st.image(os.path.join(os.getcwd(), "static", "gameplay.png"))
