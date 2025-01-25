@@ -44,7 +44,7 @@ st.write("""    In college I was Lead software engineer on our senior year softw
             2D pixel art shooter called Tactical Chicken. You played as a chicken and shot turkeys and turned them into 
             turkey dinners. The most impressive part of the project was that we had to finish the project ahead of the 
             deadline of the other students in the class because my teammate had to leave for police academy, So I learned
-            alot about time management.
+            a lot about time management.
                 \nAt the same time I was also on two other development teams for senior year projects. One of those teams
             I was helping the lead developer in my computer networking class develop and test a chat application that 
             utilized network protocols to send text to other users. I provided knowledge of the Python language and Standards.
